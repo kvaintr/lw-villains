@@ -1,0 +1,114 @@
+height: 13359 - time: 2021-12-16T18:02:34Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 236368.098545hard 
+height: 13368 - time: 2021-12-16T18:03:19Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1200.001102luna 
+height: 13381 - time: 2021-12-16T18:04:24Z - cdp-create - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 236368.098545hard what: 180000.0usdx 
+height: 13395 - time: 2021-12-16T18:05:35Z - cdp-create - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1200.001102luna what: 33000.0usdx 
+height: 13426 - time: 2021-12-16T18:08:10Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 26828.503256hard 22134.221142usdx 
+height: 13432 - time: 2021-12-16T18:08:40Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 20774.802486kava 98561.962266usdx 
+height: 13441 - time: 2021-12-16T18:09:25Z - cdp-create - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 20984.648977kava what: 80000.0usdx 
+height: 13455 - time: 2021-12-16T18:10:36Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 25000.0usdx 
+height: 21370 - time: 2021-12-17T05:12:47Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 15000.0atom 
+height: 21390 - time: 2021-12-17T05:14:28Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1648760.066176usdx 
+height: 21415 - time: 2021-12-17T05:16:33Z - cdp-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 800.0luna 
+height: 21480 - time: 2021-12-17T05:21:59Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1000.0atom 
+height: 21487 - time: 2021-12-17T05:22:35Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 5000.0luna 
+height: 21575 - time: 2021-12-17T05:29:56Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 100000.0osmo 
+height: 21620 - time: 2021-12-17T05:33:42Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1200.0atom 
+height: 21661 - time: 2021-12-17T05:37:08Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 65000.0usdx 
+height: 21670 - time: 2021-12-17T05:37:53Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 100000.0usdx 
+height: 22737 - time: 2021-12-17T07:07:08Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 500000.0kava 
+height: 22751 - time: 2021-12-17T07:08:19Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1774475.002988usdx 
+height: 25127 - time: 2021-12-17T10:27:04Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 50000.0akt 
+height: 25132 - time: 2021-12-17T10:27:29Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 50000.0akt 
+height: 25136 - time: 2021-12-17T10:27:49Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 50000.0akt 
+height: 25146 - time: 2021-12-17T10:28:39Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 50000.0akt 
+height: 27599 - time: 2021-12-17T13:53:51Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 488393.928357swp 489752.999998usdx 
+height: 30338 - time: 2021-12-17T17:43:00Z - cdp-repay - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - luna-a - what: 10202.40162usdx 
+height: 31365 - time: 2021-12-17T19:08:56Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1000000.0usdx 
+height: 31451 - time: 2021-12-17T19:16:07Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 3424319.865553usdx 
+height: 31843 - time: 2021-12-17T19:48:55Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 9000.0atom 
+height: 31868 - time: 2021-12-17T19:51:00Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 330000.0usdx 
+height: 31894 - time: 2021-12-17T19:53:11Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 51000.0usdx 
+height: 39807 - time: 2021-12-18T06:55:04Z - cdp-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 100000.0hard 
+height: 40145 - time: 2021-12-18T07:23:20Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 500000.0usdx 
+height: 40171 - time: 2021-12-18T07:25:30Z - cdp-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 240000.0hard 
+height: 40205 - time: 2021-12-18T07:28:21Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 2530.306821atom 100908.946974usdx 
+height: 40216 - time: 2021-12-18T07:29:16Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1203.534763luna 63159.484122usdx 
+height: 40308 - time: 2021-12-18T07:36:58Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 15064.960298akt 31354.322599usdx 
+height: 40377 - time: 2021-12-18T07:42:44Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 19370.300044kava 90555.777988usdx 
+height: 40388 - time: 2021-12-18T07:43:39Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 8879.211854osmo 35595.573891usdx 
+height: 45154 - time: 2021-12-18T14:22:17Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 600000.0usdx 
+height: 45254 - time: 2021-12-18T14:30:39Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 600000.0usdx 
+height: 46077 - time: 2021-12-18T15:39:29Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 3000000.0usdx 
+height: 46099 - time: 2021-12-18T15:41:19Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 500000.0usdx 
+height: 46132 - time: 2021-12-18T15:44:05Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 4000000.0usdx 
+height: 46147 - time: 2021-12-18T15:45:20Z - cdp-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1100000.0hard 
+height: 46162 - time: 2021-12-18T15:46:35Z - cdp-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 330000.0kava 
+height: 46199 - time: 2021-12-18T15:49:41Z - cdp-create - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 175347.79651swp what: 250000.0usdx 
+height: 46209 - time: 2021-12-18T15:50:31Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1041891.16134swp 1764760.903487usdx 
+height: 46230 - time: 2021-12-18T15:52:17Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1564330.100905usdx 
+height: 46297 - time: 2021-12-18T15:57:53Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 300000.0usdx 
+height: 46767 - time: 2021-12-18T16:37:12Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 400000.0usdx 
+height: 47301 - time: 2021-12-18T17:21:51Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 400000.0usdx 
+height: 47992 - time: 2021-12-18T18:19:39Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 500000.0usdx 
+height: 48388 - time: 2021-12-18T18:52:46Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 300000.0usdx 
+height: 55964 - time: 2021-12-19T05:26:25Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 3319689.140001usdx 
+height: 56978 - time: 2021-12-19T06:51:14Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 500000.0usdx 
+height: 57999 - time: 2021-12-19T08:16:37Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 400000.0usdx 
+height: 58216 - time: 2021-12-19T08:34:46Z - cdp-create - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 30.0luna what: 490.909091usdx 
+height: 63795 - time: 2021-12-19T16:21:23Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 5329.617679atom 201586.382482usdx 
+height: 63825 - time: 2021-12-19T16:23:54Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 200000.0usdx 
+height: 63830 - time: 2021-12-19T16:24:19Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 120000.0usdx 
+height: 63837 - time: 2021-12-19T16:24:54Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 50000.0usdx 
+height: 64478 - time: 2021-12-19T17:18:31Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 80000.0hard 
+height: 64511 - time: 2021-12-19T17:21:17Z - hard-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 300000.0kava 
+height: 64545 - time: 2021-12-19T17:24:07Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1100000.0usdx 
+height: 64679 - time: 2021-12-19T17:35:20Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1477.403888atom 53019.785741usdx 
+height: 64706 - time: 2021-12-19T17:37:35Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 73855.729736hard 64800.42135usdx 
+height: 64776 - time: 2021-12-19T17:43:27Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 4000.0osmo 
+height: 64792 - time: 2021-12-19T17:44:47Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 60000.0akt 
+height: 64810 - time: 2021-12-19T17:46:17Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 5000.0atom 
+height: 64822 - time: 2021-12-19T17:47:17Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 5000.0atom 
+height: 64827 - time: 2021-12-19T17:47:43Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 4000.0atom 
+height: 64832 - time: 2021-12-19T17:48:08Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 200000.0hard 
+height: 64849 - time: 2021-12-19T17:49:33Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 200000.0hard 
+height: 67122 - time: 2021-12-19T20:59:39Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 2459.905953atom 89368.538888usdx 
+height: 74464 - time: 2021-12-20T07:13:46Z - cdp-repay - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - luna-a - what: 495.849707usdx 
+height: 74547 - time: 2021-12-20T07:20:42Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 212405.062234hard 194924.298374usdx 
+height: 74584 - time: 2021-12-20T07:23:48Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 3491.550803atom 130609.321135usdx 
+height: 74607 - time: 2021-12-20T07:25:43Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1207.397679luna 66180.0772usdx 
+height: 75381 - time: 2021-12-20T08:30:28Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 5521.500609atom 202733.968896usdx 
+height: 75478 - time: 2021-12-20T08:38:35Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 3975.130916atom 145981.31149usdx 
+height: 80152 - time: 2021-12-20T15:09:33Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 500000.0usdx 
+height: 80163 - time: 2021-12-20T15:10:28Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 300000.0usdx 
+height: 80243 - time: 2021-12-20T15:17:09Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 400000.0usdx 
+height: 84018 - time: 2021-12-20T20:32:55Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 2185.808047atom 87836.89616usdx 
+height: 89854 - time: 2021-12-21T04:41:04Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 627.786847luna 25826.346143usdx 
+height: 91044 - time: 2021-12-21T06:20:37Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 700000.0usdx 
+height: 91048 - time: 2021-12-21T06:20:57Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 2000000.0usdx 
+height: 91057 - time: 2021-12-21T06:21:42Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 2000000.0usdx 
+height: 91086 - time: 2021-12-21T06:24:08Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1500000.0usdx 
+height: 107590 - time: 2021-12-22T05:24:36Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 758198.938713hard 671014.75519usdx 
+height: 107775 - time: 2021-12-22T05:40:04Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 211111.0osmo 
+height: 107786 - time: 2021-12-22T05:40:59Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 820000.0usdx 
+height: 107912 - time: 2021-12-22T05:51:32Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1212629.846779hard 1074056.720618usdx 
+height: 107939 - time: 2021-12-22T05:53:47Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1000000.0usdx 
+height: 107951 - time: 2021-12-22T05:54:48Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 350000.0usdx 
+height: 107955 - time: 2021-12-22T05:55:08Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 150000.0usdx 
+height: 108174 - time: 2021-12-22T06:13:27Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 10293.848333atom 270323.074656usdx 
+height: 108190 - time: 2021-12-22T06:14:47Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 20000.0luna 
+height: 108213 - time: 2021-12-22T06:16:43Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 1816201.692413hard 1613537.309783usdx 
+height: 108244 - time: 2021-12-22T06:19:18Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 300000.0osmo 
+height: 108929 - time: 2021-12-22T07:16:36Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 42769.459433atom 1041078.773136usdx 
+height: 108962 - time: 2021-12-22T07:19:22Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 300000.0akt 
+height: 108980 - time: 2021-12-22T07:20:52Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 145271.686569osmo 763110.539236usdx 
+height: 109012 - time: 2021-12-22T07:23:32Z - hard-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 10000.0luna 
+height: 114348 - time: 2021-12-22T14:49:52Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 160000.0usdx 
+height: 133381 - time: 2021-12-23T17:21:53Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 400000.0usdx 
+height: 133397 - time: 2021-12-23T17:23:13Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 450000.0usdx 
+height: 133442 - time: 2021-12-23T17:26:59Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 600000.0usdx 
+height: 147580 - time: 2021-12-24T13:09:33Z - swap-withdraw - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 3236.116791atom 74901.716878usdx 
+height: 186933 - time: 2021-12-26T20:00:58Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 150000.0usdx 
+height: 186945 - time: 2021-12-26T20:01:58Z - cdp-create - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 6500.0luna what: 176363.636364usdx 
+height: 186980 - time: 2021-12-26T20:04:54Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 220000.0usdx 
+height: 201396 - time: 2021-12-27T16:10:39Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 100000.0usdx 
+height: 201407 - time: 2021-12-27T16:11:34Z - cdp-borrow - kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - what: 50000.0usdx 
