@@ -19,6 +19,10 @@
 
 
 # Report
+logs date: 28 Dec ~23:00 UTC
+
+analysis date: 26-28 Dec
+
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
 
