@@ -1,2 +1,0 @@
-total transfer.recipient txs: 422
-total sender txs: 548
