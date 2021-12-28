@@ -21,6 +21,7 @@
 # Report
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
+
 low activity compared to fair players
 ```
 height: 5048 - time: 2021-12-16T06:27:17Z - to: kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u - from: kava1nxpfyzdzw0u2smv6myh58d44cxlu6fllen608w - what: 10.0swp
@@ -35,6 +36,7 @@ height: 5572 - time: 2021-12-16T07:11:07Z - to: kava1uh8h4m0cqq6tnyj255mkj0s8s9v
 
 ## 2. kava1pwhuq02sfnan3z5w4cayqd6smd2957mgd6hpj4
 multiple assets received from 4 accounts from the start
+
 low activity compared to fair players
 ```
 height: 2148 - time: 2021-12-16T02:24:40Z - to: kava1pwhuq02sfnan3z5w4cayqd6smd2957mgd6hpj4 - from: kava1xclqexg8qsmsv2rjxa9pkehxqjde2vkzuza3wm - what: 16666.99992kava
@@ -49,6 +51,7 @@ height: 2351 - time: 2021-12-16T02:41:39Z - to: kava1pwhuq02sfnan3z5w4cayqd6smd2
 
 ## 3. kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g
 multiple assets received from 21 accounts
+
 low activity compared to fair players
 ```
 height: 103374 - time: 2021-12-21T23:31:57Z - to: kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - from: kava193c7pdy0tj0nn5nryc4xkaras29kmq9mawer86 - what: 40000.0swp
@@ -97,6 +100,7 @@ height: 105268 - time: 2021-12-22T02:10:23Z - to: kava1fskeptst975wj8s2epraq9u89
 
 ## 4. kava1j7run79ex2dd5k78pk07865d4srj3gt9wly4sp
 multiple assets received from 23 accounts
+
 low activity compared to fair players
 ```
 height: 86134 - time: 2021-12-20T23:29:54Z - to: kava1j7run79ex2dd5k78pk07865d4srj3gt9wly4sp - from: kava1cvrjmnu4xpzak6qhu035pekh5h45vprejnzx8j - what: 40000.0swp - 
