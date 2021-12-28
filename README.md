@@ -352,6 +352,7 @@ No evidence was found that any of the accounts separately are violating any rule
 
 ### Point 1: 
 Swapping style is the same for all accounts and that is not how the normal player performs swaps with numbers like 44444 or 33333;
+
 **4y47**
 ```
 height: 4930 - time: 2021-12-16T06:17:24Z - kava1vtcpusw3fkzvhxmnuztjdan5v93tw558pp4y47 - what: 44444.0usdx - for: 28206.200315swp - log: 
