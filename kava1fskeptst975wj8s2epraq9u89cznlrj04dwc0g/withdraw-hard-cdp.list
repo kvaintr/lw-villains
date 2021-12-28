@@ -1,0 +1,17 @@
+height: 11627 - time: 2021-12-16T15:37:40Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 80000.0hard what: 66666.0usdx 
+height: 11642 - time: 2021-12-16T15:38:55Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 40000.0swp what: 66666.0usdx 
+height: 11650 - time: 2021-12-16T15:39:35Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 495.0atom what: 8100.0usdx 
+height: 11657 - time: 2021-12-16T15:40:10Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 2380.0osmo what: 7200.0usdx 
+height: 104597 - time: 2021-12-22T01:14:15Z - swap-withdraw - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 28462.041308kava 132488.860324usdx 
+height: 104620 - time: 2021-12-22T01:16:11Z - cdp-withdraw - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 415.0osmo 
+height: 104625 - time: 2021-12-22T01:16:36Z - cdp-withdraw - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 147.0atom 
+height: 104777 - time: 2021-12-22T01:29:19Z - hard-borrow - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 2000000.0usdx 
+height: 104826 - time: 2021-12-22T01:33:25Z - hard-borrow - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 40000.0luna 
+height: 104860 - time: 2021-12-22T01:36:15Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 40000.0luna what: 1200000.0usdx 
+height: 104887 - time: 2021-12-22T01:38:31Z - hard-borrow - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 20000.0luna 
+height: 104910 - time: 2021-12-22T01:40:26Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 20000.0luna what: 600000.0usdx 
+height: 104955 - time: 2021-12-22T01:44:12Z - hard-borrow - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 12121.0luna 
+height: 104973 - time: 2021-12-22T01:45:42Z - cdp-create - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 12121.0luna what: 363000.0usdx 
+height: 105017 - time: 2021-12-22T01:49:23Z - hard-borrow - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 300000.0usdx 
+height: 105184 - time: 2021-12-22T02:03:21Z - cdp-withdraw - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 220.0luna 
+height: 105224 - time: 2021-12-22T02:06:42Z - hard-borrow - kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g - what: 350000.0usdx 
