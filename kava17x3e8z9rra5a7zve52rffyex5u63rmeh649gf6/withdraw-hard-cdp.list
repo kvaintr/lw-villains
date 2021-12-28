@@ -1,0 +1,208 @@
+height: 7835 - time: 2021-12-16T10:20:26Z - swap-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1995.319806swp 3238.184956usdx 
+height: 11165 - time: 2021-12-16T14:59:01Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 200.0luna what: 5131.697139usdx 
+height: 18658 - time: 2021-12-17T01:25:54Z - swap-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 96347.289654swp 158132.974232usdx 
+height: 18749 - time: 2021-12-17T01:33:31Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 211657.829739usdx 
+height: 18773 - time: 2021-12-17T01:35:32Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2742.856922atom 
+height: 19285 - time: 2021-12-17T02:18:22Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2400.0osmo what: 4800.0usdx 
+height: 19296 - time: 2021-12-17T02:19:17Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - luna-a - what: 5183.179041usdx 
+height: 19316 - time: 2021-12-17T02:20:57Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 59.955257luna 
+height: 19376 - time: 2021-12-17T02:25:58Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 19199.784684usdx 
+height: 19702 - time: 2021-12-17T02:53:15Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 14398.772035usdx 
+height: 20965 - time: 2021-12-17T04:38:54Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 23994.038206usdx 
+height: 22240 - time: 2021-12-17T06:25:34Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 28793.33031usdx 
+height: 22837 - time: 2021-12-17T07:15:30Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 822.763686atom 
+height: 22855 - time: 2021-12-17T07:17:01Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - osmo-a - what: 4848.067683usdx 
+height: 22865 - time: 2021-12-17T07:17:51Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2400.0osmo what: 4800.0usdx 
+height: 22877 - time: 2021-12-17T07:18:51Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 822.763686atom what: 10471.537822usdx 
+height: 22996 - time: 2021-12-17T07:28:48Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 28799.15039usdx 
+height: 23135 - time: 2021-12-17T07:40:26Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 19199.228048usdx 
+height: 24711 - time: 2021-12-17T09:52:16Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 19191.763142usdx 
+height: 24811 - time: 2021-12-17T10:00:38Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 14399.484986usdx 
+height: 24936 - time: 2021-12-17T10:11:05Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 10.0atom 
+height: 25168 - time: 2021-12-17T10:30:30Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 19245.573127usdx 
+height: 25269 - time: 2021-12-17T10:38:57Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - atom-a - what: 10576.351995usdx 
+height: 25306 - time: 2021-12-17T10:42:02Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 832.763686atom what: 10598.810549usdx 
+height: 26668 - time: 2021-12-17T12:35:58Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - atom-a - what: 10704.855442usdx 
+height: 26686 - time: 2021-12-17T12:37:29Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 832.763686atom what: 10598.810549usdx 
+height: 26699 - time: 2021-12-17T12:38:34Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - atom-a - what: 10704.799074usdx 
+height: 26715 - time: 2021-12-17T12:39:54Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - osmo-a - what: 4848.073035usdx 
+height: 26733 - time: 2021-12-17T12:41:25Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2400.0osmo what: 4800.0usdx 
+height: 26744 - time: 2021-12-17T12:42:20Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 832.763686atom what: 10598.810549usdx 
+height: 27149 - time: 2021-12-17T13:16:13Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47990.292026usdx 
+height: 27240 - time: 2021-12-17T13:23:49Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47999.542952usdx 
+height: 27664 - time: 2021-12-17T13:59:17Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 39357.771722usdx 
+height: 27831 - time: 2021-12-17T14:13:16Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47999.072029usdx 
+height: 27899 - time: 2021-12-17T14:18:57Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47999.605222usdx 
+height: 28153 - time: 2021-12-17T14:40:12Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47998.45859usdx 
+height: 28328 - time: 2021-12-17T14:54:50Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47998.899957usdx 
+height: 28729 - time: 2021-12-17T15:28:23Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 710.787691atom 
+height: 29089 - time: 2021-12-17T15:58:30Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47997.64583usdx 
+height: 29358 - time: 2021-12-17T16:21:00Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - atom-a - what: 10704.907996usdx 
+height: 29375 - time: 2021-12-17T16:22:25Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 299.944775atom 
+height: 29801 - time: 2021-12-17T16:58:04Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47997.181083usdx 
+height: 29972 - time: 2021-12-17T17:12:23Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 47998.800148usdx 
+height: 30545 - time: 2021-12-17T18:00:19Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 90000.0hard 
+height: 30658 - time: 2021-12-17T18:09:46Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 90000.0hard 
+height: 35984 - time: 2021-12-18T01:35:17Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - osmo-a - what: 4848.175491usdx 
+height: 36015 - time: 2021-12-18T01:37:53Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 100000.0hard 
+height: 36037 - time: 2021-12-18T01:39:43Z - swap-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 973.140365swp 1604.46004usdx 
+height: 36058 - time: 2021-12-18T01:41:29Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 979.54915swp what: 890.499227usdx 
+height: 36108 - time: 2021-12-18T01:45:40Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 100000.0hard 
+height: 36220 - time: 2021-12-18T01:55:02Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 110000.0hard 
+height: 36334 - time: 2021-12-18T02:04:34Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 50000.0usdx 
+height: 36364 - time: 2021-12-18T02:07:05Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 49800.0usdx 
+height: 36394 - time: 2021-12-18T02:09:35Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 480320.0hard 
+height: 36421 - time: 2021-12-18T02:11:51Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 320000.0usdx 
+height: 36441 - time: 2021-12-18T02:13:31Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 239000.0usdx 
+height: 36458 - time: 2021-12-18T02:14:56Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 160999.0usdx 
+height: 36474 - time: 2021-12-18T02:16:17Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 86200.0hard 
+height: 36502 - time: 2021-12-18T02:18:37Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 36691 - time: 2021-12-18T02:34:26Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 36740 - time: 2021-12-18T02:38:32Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 36796 - time: 2021-12-18T02:43:13Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 38379 - time: 2021-12-18T04:55:37Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 119000.0usdx 
+height: 38416 - time: 2021-12-18T04:58:43Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 38487 - time: 2021-12-18T05:04:39Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 57505.0hard 
+height: 38500 - time: 2021-12-18T05:05:44Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 39410 - time: 2021-12-18T06:21:51Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 79000.0usdx 
+height: 39452 - time: 2021-12-18T06:25:22Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120900.0usdx 
+height: 39486 - time: 2021-12-18T06:28:13Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 39540 - time: 2021-12-18T06:32:44Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 79000.0usdx 
+height: 39924 - time: 2021-12-18T07:04:51Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 40256 - time: 2021-12-18T07:32:37Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 40283 - time: 2021-12-18T07:34:52Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 81000.0usdx 
+height: 40400 - time: 2021-12-18T07:44:40Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 40419 - time: 2021-12-18T07:46:15Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 57000.0hard 
+height: 40480 - time: 2021-12-18T07:51:21Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 42337 - time: 2021-12-18T10:26:40Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 42541 - time: 2021-12-18T10:43:44Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 57059.566023usdx 
+height: 42546 - time: 2021-12-18T10:44:09Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 89700.0usdx 
+height: 42558 - time: 2021-12-18T10:45:09Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 120000.0usdx 
+height: 42579 - time: 2021-12-18T10:46:55Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 14480.0usdx 
+height: 42591 - time: 2021-12-18T10:47:55Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 42638 - time: 2021-12-18T10:51:51Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - swp-a - what: 290918.0usdx 
+height: 42647 - time: 2021-12-18T10:52:36Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 127159.033032swp what: 115599.120938usdx 
+height: 42651 - time: 2021-12-18T10:52:56Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 96332.0usdx 
+height: 42667 - time: 2021-12-18T10:54:16Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 52700.0hard 
+height: 42677 - time: 2021-12-18T10:55:06Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 26400.0hard 
+height: 43128 - time: 2021-12-18T11:32:50Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 69000.0hard 
+height: 43143 - time: 2021-12-18T11:34:05Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 34000.0hard 
+height: 43158 - time: 2021-12-18T11:35:20Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 17000.0hard 
+height: 43980 - time: 2021-12-18T12:44:05Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 116990.035434swp what: 189999.0usdx 
+height: 43985 - time: 2021-12-18T12:44:30Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 4984.0usdx 
+height: 44002 - time: 2021-12-18T12:45:56Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 160600.0usdx 
+height: 44034 - time: 2021-12-18T12:48:36Z - cdp-repay - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - swp-a - what: 205364.0usdx 
+height: 44054 - time: 2021-12-18T12:50:17Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 116990.035434swp what: 186354.0usdx 
+height: 44063 - time: 2021-12-18T12:51:02Z - cdp-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 5177.0swp 
+height: 44072 - time: 2021-12-18T12:51:47Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 8629.0usdx 
+height: 44082 - time: 2021-12-18T12:52:37Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 44307 - time: 2021-12-18T13:11:26Z - cdp-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 106408.9363swp 
+height: 45138 - time: 2021-12-18T14:20:57Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2027.0atom 
+height: 45279 - time: 2021-12-18T14:32:44Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2378.0atom 
+height: 46155 - time: 2021-12-18T15:46:00Z - cdp-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 8000.0usdx 
+height: 46174 - time: 2021-12-18T15:47:36Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2512.0atom 
+height: 46195 - time: 2021-12-18T15:49:21Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1256.0atom 
+height: 46208 - time: 2021-12-18T15:50:26Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 628.0atom 
+height: 46407 - time: 2021-12-18T16:07:05Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1650.0atom 
+height: 46421 - time: 2021-12-18T16:08:15Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 831.0atom 
+height: 46961 - time: 2021-12-18T16:53:25Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1776.0atom 
+height: 46971 - time: 2021-12-18T16:54:15Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 888.0atom 
+height: 47079 - time: 2021-12-18T17:03:17Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1772.0atom 
+height: 47085 - time: 2021-12-18T17:03:47Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 886.0atom 
+height: 53943 - time: 2021-12-19T02:37:23Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 95200.0usdx 
+height: 53955 - time: 2021-12-19T02:38:23Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 53968 - time: 2021-12-19T02:39:28Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 64000.0usdx 
+height: 56203 - time: 2021-12-19T05:46:24Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1329.0atom 
+height: 56509 - time: 2021-12-19T06:12:00Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 665.0atom 
+height: 56548 - time: 2021-12-19T06:15:16Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1690.0atom 
+height: 56554 - time: 2021-12-19T06:15:46Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 845.0atom 
+height: 56560 - time: 2021-12-19T06:16:16Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 422.0atom 
+height: 56841 - time: 2021-12-19T06:39:46Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 100000.0usdx 
+height: 57264 - time: 2021-12-19T07:15:09Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 72000.0usdx 
+height: 57275 - time: 2021-12-19T07:16:04Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 80000.0usdx 
+height: 57285 - time: 2021-12-19T07:16:54Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 40000.0usdx 
+height: 59398 - time: 2021-12-19T10:13:38Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 48000.0usdx 
+height: 59631 - time: 2021-12-19T10:33:07Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1408.0atom 
+height: 59637 - time: 2021-12-19T10:33:37Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 704.0atom 
+height: 61349 - time: 2021-12-19T12:56:49Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1694.0atom 
+height: 61354 - time: 2021-12-19T12:57:14Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 800.0atom 
+height: 62927 - time: 2021-12-19T15:08:48Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2900.0atom 
+height: 62938 - time: 2021-12-19T15:09:43Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1500.0atom 
+height: 62946 - time: 2021-12-19T15:10:23Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 700.0atom 
+height: 63479 - time: 2021-12-19T15:54:58Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1500.0atom 
+height: 63487 - time: 2021-12-19T15:55:38Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 900.0atom 
+height: 63494 - time: 2021-12-19T15:56:13Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 500.0atom 
+height: 64319 - time: 2021-12-19T17:05:13Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1600.0atom 
+height: 64329 - time: 2021-12-19T17:06:03Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 800.0atom 
+height: 65360 - time: 2021-12-19T18:32:17Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 100000.0usdx 
+height: 71889 - time: 2021-12-20T03:38:22Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 400000.0usdx 
+height: 72039 - time: 2021-12-20T03:50:55Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1900.0atom 
+height: 72052 - time: 2021-12-20T03:52:00Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 900.0atom 
+height: 72059 - time: 2021-12-20T03:52:36Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 500.0atom 
+height: 72065 - time: 2021-12-20T03:53:06Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 200.0atom 
+height: 73831 - time: 2021-12-20T06:20:49Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1400.0atom 
+height: 75422 - time: 2021-12-20T08:33:54Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2000.0atom 
+height: 79216 - time: 2021-12-20T13:51:15Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 83000.0usdx 
+height: 79379 - time: 2021-12-20T14:04:53Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1000.0atom 
+height: 79390 - time: 2021-12-20T14:05:49Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 500.0atom 
+height: 88171 - time: 2021-12-21T02:20:17Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1700.0atom 
+height: 88182 - time: 2021-12-21T02:21:12Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 900.0atom 
+height: 92493 - time: 2021-12-21T08:21:49Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 10.0luna what: 10.0usdx 
+height: 92501 - time: 2021-12-21T08:22:29Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 300000.0usdx 
+height: 92504 - time: 2021-12-21T08:22:44Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 57000.0usdx 
+height: 94913 - time: 2021-12-21T11:44:14Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 400000.0usdx 
+height: 94978 - time: 2021-12-21T11:49:40Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 46000.0usdx 
+height: 95173 - time: 2021-12-21T12:05:59Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1300.0atom 
+height: 95185 - time: 2021-12-21T12:06:59Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 700.0atom 
+height: 96838 - time: 2021-12-21T14:25:15Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 300000.0usdx 
+height: 97033 - time: 2021-12-21T14:41:33Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 3310.0atom 
+height: 97046 - time: 2021-12-21T14:42:39Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1600.0atom 
+height: 98377 - time: 2021-12-21T16:33:59Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 300000.0usdx 
+height: 98872 - time: 2021-12-21T17:15:23Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 50.0usdx 
+height: 98915 - time: 2021-12-21T17:18:59Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 375000.0usdx 
+height: 104483 - time: 2021-12-22T01:04:43Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 374900.0usdx 
+height: 104500 - time: 2021-12-22T01:06:09Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 30000.0akt 
+height: 104506 - time: 2021-12-22T01:06:39Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 15000.0akt 
+height: 104515 - time: 2021-12-22T01:07:24Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 7700.0akt 
+height: 104670 - time: 2021-12-22T01:20:22Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 18000.0akt 
+height: 105103 - time: 2021-12-22T01:56:35Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 15000.0akt 
+height: 105112 - time: 2021-12-22T01:57:20Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 680.0atom 
+height: 108252 - time: 2021-12-22T06:19:58Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 200000.0usdx 
+height: 108402 - time: 2021-12-22T06:32:31Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 17500.0akt 
+height: 113175 - time: 2021-12-22T13:11:45Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 200000.0usdx 
+height: 113241 - time: 2021-12-22T13:17:16Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 24950.0akt 
+height: 113249 - time: 2021-12-22T13:17:56Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 12000.0akt 
+height: 114639 - time: 2021-12-22T15:14:12Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 200000.0usdx 
+height: 114724 - time: 2021-12-22T15:21:19Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 19000.0akt 
+height: 114732 - time: 2021-12-22T15:21:59Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 9500.0akt 
+height: 115646 - time: 2021-12-22T16:38:26Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 100.0usdx 
+height: 122755 - time: 2021-12-23T02:33:05Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 159000.0usdx 
+height: 122935 - time: 2021-12-23T02:48:08Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 16500.0akt 
+height: 122944 - time: 2021-12-23T02:48:53Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 8333.0akt 
+height: 129518 - time: 2021-12-23T11:58:46Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 290000.0usdx 
+height: 129608 - time: 2021-12-23T12:06:18Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 15986.0akt 
+height: 129626 - time: 2021-12-23T12:07:48Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 7900.0akt 
+height: 129637 - time: 2021-12-23T12:08:43Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 4000.0akt 
+height: 140087 - time: 2021-12-24T02:42:48Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 261000.0usdx 
+height: 140386 - time: 2021-12-24T03:07:49Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 26495.0akt 
+height: 140392 - time: 2021-12-24T03:08:19Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 13000.0akt 
+height: 140397 - time: 2021-12-24T03:08:44Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 6200.0akt 
+height: 149054 - time: 2021-12-24T15:12:50Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 336000.0usdx 
+height: 149094 - time: 2021-12-24T15:16:11Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 22435.0akt 
+height: 149099 - time: 2021-12-24T15:16:36Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 11217.0akt 
+height: 149105 - time: 2021-12-24T15:17:06Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 5600.0akt 
+height: 157138 - time: 2021-12-25T02:28:59Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 286000.0usdx 
+height: 157196 - time: 2021-12-25T02:33:50Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 20600.0akt 
+height: 157202 - time: 2021-12-25T02:34:20Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 10000.0akt 
+height: 157208 - time: 2021-12-25T02:34:50Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 5329.0akt 
+height: 165594 - time: 2021-12-25T14:16:13Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 268000.0usdx 
+height: 165678 - time: 2021-12-25T14:23:15Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 23000.0akt 
+height: 165684 - time: 2021-12-25T14:23:45Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 12000.0akt 
+height: 165689 - time: 2021-12-25T14:24:10Z - hard-borrow - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 6000.0akt 
+height: 196485 - time: 2021-12-27T09:19:53Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 50.0usdx 
+height: 196543 - time: 2021-12-27T09:24:44Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1000.0usdx 
+height: 196575 - time: 2021-12-27T09:27:25Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 1000.0usdx 
+height: 196591 - time: 2021-12-27T09:28:45Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 5000.0usdx 
+height: 196603 - time: 2021-12-27T09:29:45Z - cdp-create - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 5000.0akt what: 5454.545455usdx 
+height: 196628 - time: 2021-12-27T09:31:51Z - cdp-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 2623.0akt 
+height: 200126 - time: 2021-12-27T14:24:25Z - hard-withdraw - kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 - what: 10000.0usdx 
