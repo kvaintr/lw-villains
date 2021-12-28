@@ -1,2 +1,2 @@
-total message.sender txs: 49
-total transfer.recipient txs: 96
+total transfer.recipient txs: 102
+total sender txs: 52
