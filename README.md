@@ -102,7 +102,7 @@ total tx: 229
 
 Similar TX patterns are also true for multiaccounts which is described in section 9.
 
-It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but it's not easy to identify their relation from first view: you start doubting if it's a normal behaviour for multiple players or if there is one person to whom this behaviour is typical. In the section 9 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous.
+It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but it's not easy to identify their relation from first sight: you start doubting if it's a normal behaviour for multiple players or if there is one person to whom this behaviour is typical. In the section 9 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous.
 
 While I am completly sure about the multiaccount player in section 6, my observations in section 9 make me wonder if there are indeed that many multiaccounts or I have a wrong perception of the human behaviour. I find the activity of the observed players very confusing.
 
