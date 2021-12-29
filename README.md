@@ -104,6 +104,8 @@ Similar TX patterns are also true for multiaccounts which is described in sectio
 
 It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but it's not easy to identify their relation from first view: you start doubting if it's a normal behaviour for multiple players or if there is one person to whom this behaviour is typical. In the section 9 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous.
 
+While I am completly sure about the multiaccount player in section 6, my observations in section 9 make me wonder if there are indeed that many multiaccounts or I have a wrong perception of the human behaviour. I find the activity of the observed players very confusing.
+
 It's hard to believe that such big prizes attracted only a couple multiaccount users: getting $1000 per account for 2 weeks of low time consuming labor every day is very attrective to cheaters. I strongly encourage to investigate multiaccounting as I tend to belive there might be a lot of them among top 61 at least.
 
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
@@ -1016,7 +1018,7 @@ height: 209715 - time: 2021-12-28T03:46:26Z - swap-deposit - kava1ueu592zmh5aqmn
 ###### point 1: all accounts follow each other in the same order every day starting from Dec 24 (or even earlier), see the order in the examples above
 
 ###### point 2: 
-If we look closely at the last players activity from the last days (check all in similarity 4), they have the same weird pattern
+If we look closely at the players' activity from the last days (check all in similarity 4), they have the same weird pattern
 
 I'd say there is close to 0 possibility that 2 players among 700 would be following this strange pattern of withdrawing from swap and cdp at almost the same time without doing anything specific, but these strange transactions
 
@@ -1042,12 +1044,44 @@ height: 175352 - time: 2021-12-26T03:52:21Z - cdp-withdraw - kava1ueu592zmh5aqmn
 ```
 
 ##### Possible relations
-I have identified many accounts with similar behaviour and timing, but it's time consuming to compare everything. I provide suspicious accounts below
+I have identified many accounts with similar behaviour, but it's time consuming to compare everything. I provide suspicious accounts below for additional investigation
 
+What all those accounts share in common:
+- low tx count, low swap tx count
+- selling all for usdx from the start
+- doing sensless transactions as if they are simulating activity
+
+**kava1tjrhqzsanpmqvkvxrlevt9esee4xw2w6j98vt4 (pos 31)**
++ 193 txs, 24 swap txs
+```
+height: 193366 - time: 2021-12-27T04:59:00Z - swap-withdraw - kava1tjrhqzsanpmqvkvxrlevt9esee4xw2w6j98vt4 - what: 0.287878hard 0.241043usdx 
+height: 193372 - time: 2021-12-27T04:59:31Z - hard-deposit - kava1tjrhqzsanpmqvkvxrlevt9esee4xw2w6j98vt4 - what: 198.896426usdx 
+height: 208006 - time: 2021-12-28T01:23:30Z - swap-withdraw - kava1tjrhqzsanpmqvkvxrlevt9esee4xw2w6j98vt4 - what: 1.380594hard 1.2072usdx 
+height: 208022 - time: 2021-12-28T01:24:50Z - swap-deposit - kava1tjrhqzsanpmqvkvxrlevt9esee4xw2w6j98vt4 - what: 0.966292kava 4.711757usdx
+height: 208036 - time: 2021-12-28T01:26:00Z - cdp-withdraw - kava1tjrhqzsanpmqvkvxrlevt9esee4xw2w6j98vt4 - what: 1.0kava 
+```
+**kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 (pos 29)**
++ 177 txs, 24 swap txs
+```
+height: 194790 - time: 2021-12-27T06:58:07Z - swap-withdraw - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 0.019686akt 0.060209usdx 
+height: 194795 - time: 2021-12-27T06:58:32Z - hard-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 68.556518usdx 
+height: 194800 - time: 2021-12-27T06:58:57Z - cdp-withdraw - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 0.4swp 
+height: 208478 - time: 2021-12-28T02:02:58Z - cdp-withdraw - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 3.0swp 
+height: 208490 - time: 2021-12-28T02:03:59Z - swap-withdraw - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 203.748963hard 178.076433usdx 
+height: 208499 - time: 2021-12-28T02:04:44Z - swap-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 1.0akt 2.982069usdx
+height: 208515 - time: 2021-12-28T02:06:04Z - cdp-repay - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - swp-a - what: 1.0usdx 
+height: 208519 - time: 2021-12-28T02:06:24Z - hard-withdraw - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 26.0kava 
+height: 208529 - time: 2021-12-28T02:07:14Z - hard-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 481.91371usdx 
+height: 208533 - time: 2021-12-28T02:07:34Z - hard-borrow - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 17.0luna 
+height: 208543 - time: 2021-12-28T02:08:25Z - hard-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 658.635602usdx 
+height: 208553 - time: 2021-12-28T02:09:15Z - hard-borrow - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 12.0luna 
+height: 208562 - time: 2021-12-28T02:10:00Z - hard-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 329.18295usdx 
+height: 208567 - time: 2021-12-28T02:10:25Z - hard-borrow - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 6.0luna 
+height: 208585 - time: 2021-12-28T02:11:55Z - swap-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 9.0osmo 45.671735usdx
+height: 208594 - time: 2021-12-28T02:12:41Z - swap-deposit - kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 - what: 6.000001akt 17.892404usdx
+```
 **kava18jnqe0r25utgqjwapwaydzr7wddeta6j9322pt (pos 34)**
 + 126 txs, 12 swap txs
-+ similar strategy: sell all from the start
-+ 0 sense transactions
 ```
 height: 192992 - time: 2021-12-27T04:27:44Z - swap-withdraw - kava18jnqe0r25utgqjwapwaydzr7wddeta6j9322pt - what: 46.804714hard 39.141978usdx 
 height: 192996 - time: 2021-12-27T04:28:04Z - hard-deposit - kava18jnqe0r25utgqjwapwaydzr7wddeta6j9322pt - what: 284.285015usdx 
@@ -1059,8 +1093,6 @@ height: 193110 - time: 2021-12-27T04:37:36Z - cdp-withdraw - kava18jnqe0r25utgqj
 ```
 **kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m (pos 36)**
 + 172 txs, 14 swap txs
-+ similar strategy: sell all from the start
-+ 0 sense transactions behaviour
 ```
 height: 192693 - time: 2021-12-27T04:02:43Z - swap-withdraw - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 0.103014kava 0.494153usdx 
 height: 192699 - time: 2021-12-27T04:03:13Z - cdp-withdraw - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 0.01kava 
@@ -1071,8 +1103,6 @@ height: 225438 - time: 2021-12-29T01:41:31Z - swap-deposit - kava1kdnvc2dmeqatv4
 ```
 **kava14mysv209yv0gcvu0dmth98uq04zzy7c0j0k5nv (pos 40)**
 + 125 txs, 16 swap txs
-+ similar strategy: sell all from the start
-+ 0 sense transactions behaviour
 ```
 height: 192814 - time: 2021-12-27T04:12:50Z - swap-withdraw - kava14mysv209yv0gcvu0dmth98uq04zzy7c0j0k5nv - what: 11.216193hard 9.379578usdx 
 height: 192817 - time: 2021-12-27T04:13:05Z - hard-deposit - kava14mysv209yv0gcvu0dmth98uq04zzy7c0j0k5nv - what: 78.633131usdx 
@@ -1085,8 +1115,6 @@ height: 225543 - time: 2021-12-29T01:50:18Z - swap-withdraw - kava14mysv209yv0gc
 ```
 **kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm (pos 51)**
 + 165 txs, 18 swap txs
-+ similar strategy: sell all from the start
-+ 0 sense transactions behaviour
 ```
 height: 194279 - time: 2021-12-27T06:15:22Z - swap-withdraw - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 2.157227hard 1.793475usdx 
 height: 194282 - time: 2021-12-27T06:15:37Z - hard-deposit - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 102.450264usdx 
