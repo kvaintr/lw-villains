@@ -106,7 +106,7 @@ It's difficult to find multiaccounting with logs only. Some accounts raise quest
 
 While I am completly sure about the multiaccount player in section 6, my observations in section 9 make me wonder if there are indeed that many multiaccounts or I have a wrong perception of the human behaviour. I find the activity of the observed players very confusing.
 
-It's hard to believe that such big prizes attracted only a couple multiaccount users: getting $1000 per account for 2 weeks of low time consuming labor every day is very attrective to cheaters. I strongly encourage to investigate multiaccounting as I tend to belive there might be a lot of them among top 61 at least.
+It's hard to believe that such big prizes attracted only a couple multiaccount users: getting $1000 per account for 2 weeks of low time consuming labor every day is very attractive to cheaters. I strongly encourage to investigate multiaccounting as I tend to belive there might be a lot of them among top 61 at least.
 
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
