@@ -100,9 +100,11 @@ total tx: 229
 
 ### Multiaccounting
 
-It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but it's not easy to identify their relation from first view. It's hard to believe that such big prizes attracted only a couple multiaccount users: getting $1000 for 2 weeks of low time labor every day is very attrective for cheaters. 
+Similar TX patterns are also true for multiaccounts which is described in section 9.
 
-In the section 9 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous.
+It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but it's not easy to identify their relation from first view: you start doubting if it's a normal behaviour for multiple players or if there is one person to whom this behaviour is typical. In the section 9 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous.
+
+It's hard to believe that such big prizes attracted only a couple multiaccount users: getting $1000 per account for 2 weeks of low time consuming labor every day is very attrective to cheaters. I strongly encourage to investigate multiaccounting as I tend to belive there might be a lot of them among top 61 at least.
 
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
@@ -1053,22 +1055,24 @@ height: 193000 - time: 2021-12-27T04:28:24Z - cdp-withdraw - kava18jnqe0r25utgqj
 height: 193104 - time: 2021-12-27T04:37:06Z - swap-withdraw - kava18jnqe0r25utgqjwapwaydzr7wddeta6j9322pt - what: 45.86862hard 38.359138usdx 
 height: 193107 - time: 2021-12-27T04:37:21Z - hard-deposit - kava18jnqe0r25utgqjwapwaydzr7wddeta6j9322pt - what: 38.746605usdx 
 height: 193110 - time: 2021-12-27T04:37:36Z - cdp-withdraw - kava18jnqe0r25utgqjwapwaydzr7wddeta6j9322pt - what: 0.5kava 
+# what for does he need 0.7 kava and 10 minutes later 0.5 kava? what will it change for a normal player?
 ```
 **kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m (pos 36)**
 + 172 txs, 14 swap txs
 + similar strategy: sell all from the start
-+ 0 sense transactions
++ 0 sense transactions behaviour
 ```
 height: 192693 - time: 2021-12-27T04:02:43Z - swap-withdraw - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 0.103014kava 0.494153usdx 
 height: 192699 - time: 2021-12-27T04:03:13Z - cdp-withdraw - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 0.01kava 
 height: 208211 - time: 2021-12-28T01:40:38Z - swap-withdraw - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 278.013302hard 243.06839usdx 
 height: 225433 - time: 2021-12-29T01:41:06Z - hard-deposit - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 50.0hard 
 height: 225438 - time: 2021-12-29T01:41:31Z - swap-deposit - kava1kdnvc2dmeqatv4fmemfy8q7whl9vjta68fkr8m - what: 50.821518hard 42.310284usdx
+# why does he withdraw low amounts?
 ```
 **kava14mysv209yv0gcvu0dmth98uq04zzy7c0j0k5nv (pos 40)**
 + 125 txs, 16 swap txs
 + similar strategy: sell all from the start
-+ 0 sense transactions
++ 0 sense transactions behaviour
 ```
 height: 192814 - time: 2021-12-27T04:12:50Z - swap-withdraw - kava14mysv209yv0gcvu0dmth98uq04zzy7c0j0k5nv - what: 11.216193hard 9.379578usdx 
 height: 192817 - time: 2021-12-27T04:13:05Z - hard-deposit - kava14mysv209yv0gcvu0dmth98uq04zzy7c0j0k5nv - what: 78.633131usdx 
@@ -1082,7 +1086,7 @@ height: 225543 - time: 2021-12-29T01:50:18Z - swap-withdraw - kava14mysv209yv0gc
 **kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm (pos 51)**
 + 165 txs, 18 swap txs
 + similar strategy: sell all from the start
-+ 0 sense transactions
++ 0 sense transactions behaviour
 ```
 height: 194279 - time: 2021-12-27T06:15:22Z - swap-withdraw - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 2.157227hard 1.793475usdx 
 height: 194282 - time: 2021-12-27T06:15:37Z - hard-deposit - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 102.450264usdx 
@@ -1096,4 +1100,5 @@ height: 208341 - time: 2021-12-28T01:51:31Z - hard-borrow - kava19wugvjdd6nl767y
 height: 208352 - time: 2021-12-28T01:52:26Z - swap-deposit - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 10.0hard 8.741547usdx
 height: 208359 - time: 2021-12-28T01:53:01Z - hard-deposit - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 170.914554usdx 
 height: 208363 - time: 2021-12-28T01:53:21Z - hard-borrow - kava19wugvjdd6nl767y4vvqpv2wrtf0uhrmk4uqlmm - what: 3.0luna 
+# why did he borrow 6 luna and then again 3 luna?
 ```
