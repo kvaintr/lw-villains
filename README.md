@@ -791,7 +791,7 @@ player 46 6dpt: 120 txs, 11 swap txs
 
 player 47 0r2n: 104 txs, 9 swap txs
 
-##### 2 similarity: same starting strategy
+### 2 similarity: same starting strategy
 All sharing the same swaping strategy at the start of the game (or close to the start like with k4ga): sell everything for usdx
 ```
 height: 5956 - time: 2021-12-16T07:43:14Z - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 80000.0hard - for: 60923.772927usdx - log: 
@@ -828,7 +828,7 @@ height: 23458 - time: 2021-12-17T08:07:27Z - kava15vkstzpueykxaprm84sra7ejtp6g6e
 height: 23462 - time: 2021-12-17T08:07:48Z - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 16660.0kava - for: 72688.2599usdx - log: 
 height: 23468 - time: 2021-12-17T08:08:18Z - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 80000.0hard - for: 65107.604248usdx - log: 
 ```
-##### 3 similarity: same game strategy
+### 3 similarity: same game strategy
 ```
 height: 21084 - time: 2021-12-17T04:48:52Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 150000.0usdx 
 height: 21089 - time: 2021-12-17T04:49:17Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 150000.0usdx 
@@ -876,7 +876,7 @@ height: 24430 - time: 2021-12-17T09:28:46Z - hard-deposit - kava1lueh9u37pcjktcc
 height: 24436 - time: 2021-12-17T09:29:16Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 103389.0usdx 
 height: 24439 - time: 2021-12-17T09:29:31Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 103389.0usdx 
 ```
-##### 4 similarity: no overlapping, close timing
+### 4 similarity: no overlapping, close timing
 9qkl ~ 02:06 - 02:09
 
 k4ga ~ 02:35 - 02:37
@@ -1013,11 +1013,11 @@ height: 209700 - time: 2021-12-28T03:45:11Z - hard-deposit - kava1ueu592zmh5aqmn
 height: 209704 - time: 2021-12-28T03:45:31Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 1000.0hard 
 height: 209715 - time: 2021-12-28T03:46:26Z - swap-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 777.0hard 667.434688usdx
 ```
-##### 5 similarity: pattern
+### 5 similarity: pattern
 
-###### point 1: all accounts follow each other in the same order every day starting from Dec 24 (or even earlier), see the order in the examples above
+#### point 1: all accounts follow each other in the same order every day starting from Dec 24 (or even earlier), see the order in the examples above
 
-###### point 2: 
+#### point 2: 
 If we look closely at the players' activity from the last days (check all in similarity 4), they have the same weird pattern
 
 I'd say there is close to 0 possibility that 2 players among 700 would be following this strange pattern of withdrawing from swap and cdp at almost the same time without doing anything specific, but these strange transactions
@@ -1043,7 +1043,7 @@ height: 175336 - time: 2021-12-26T03:51:01Z - hard-deposit - kava1ueu592zmh5aqmn
 height: 175352 - time: 2021-12-26T03:52:21Z - cdp-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 5.0hard 
 ```
 
-##### Possible relations
+### Possible relations
 I have identified many accounts with similar behaviour, but it's time consuming to compare everything. I provide suspicious accounts below for additional investigation
 
 What all those accounts share in common:
