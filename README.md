@@ -918,7 +918,7 @@ k4ga ~ 03:20 - 03:20
 The only txs for this day
 ```
 # this is the only case of overlapping I've came across with these accounts: k4ga completes the transaction later than 6dpt starts
-# yet this is the only tx for k4ga for the full day
+# I admit that this example breaks the logic, yet this is the only tx for k4ga
 height: 209404 - time: 2021-12-28T03:20:25Z - swap-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 184.186772swp 313.063488usdx 
 
 height: 209399 - time: 2021-12-28T03:20:00Z - swap-withdraw - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 6.915753kava 33.401472usdx 
