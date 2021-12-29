@@ -728,7 +728,9 @@ kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - top auction liquidator; bought col
 
 kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65 - competing top auction liquidator
 
-While auctions are technicaly an important part of the platform and must be tested thoroughly too, such huge advantage makes the technicaly skilled player instant winner. It should be clearly stated in the rules how the auctions must be treated otherwise some people think auctions are forbidden while the others profit from them. It was mentioned in the blog that auctions won't be conducted, yet we have 2 liquidators who buy most of the collateral at very low cost like 50$ for 50000$
+While auctions are technicaly an important part of the platform and must be tested thoroughly too, such huge advantage makes the technicaly skilled player instant winner. It should be clearly stated in the rules how the auctions must be treated otherwise some people think auctions are forbidden while the others profit from them. It was mentioned in the blog that auctions won't be conducted, yet we have 2 liquidators who buy most of the collateral at very low cost like 50$ for 50000$. 
+
+The auction in my opinion can be considered fair if it's done at max_bid which profits both the liquidator and allows the player to continue his participation in the competition. However with a liquidator buying all the collateral at almost 0 cost should be treated as transfer of capital which can be hidden or not.
 
 I have no information how much each of the accounts gained total from the auctions, but their rewards rate is way ahead of the other players; I leave this to the Team
 
