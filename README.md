@@ -780,7 +780,7 @@ height: 101042 - time: 2021-12-21T20:16:53Z - last_bidder: kava1gfdkdeyvamglk2tc
 
 The most suspicious part here is similarity 4 (timing) and similarity 5 (pattern). This example might be false-positive, but it's fine to illustrate the idea and strategy.
 
-##### 1 similarity: close number of transactions
+### 1 similarity: close number of transactions
 player 33 5w67: 126 txs, 12 swap txs
 
 player 37 k4ga: 108 txs, 11 swap txs
