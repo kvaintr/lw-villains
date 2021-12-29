@@ -23,6 +23,74 @@ logs date: 28 Dec ~23:00 UTC
 
 analysis date: 26-28 Dec
 
+### Txs correlation
+
+There is an interesting correlation between the account activity and cheating; not true for all accounts, but helped to identify the main cheaters. 
+
+This is the top 30 leaderboard with correlation noted
+```
+1. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k in process
+total tx: 4183
+2. kava1ngd60qqsuhr3ky9fqsn443pkzwwugn40t4afty in process
+total tx: 39
+3. kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65 in process
+total tx: 4633
+4. kava1eufgf0w9d7hf5mgtek4zr2upkxag9stmzx6unl in process
+total tx: 2481
+5. kava17x3e8z9rra5a7zve52rffyex5u63rmeh649gf6 in process <- identified cheater
+total tx: 892
+6. kava1vtcpusw3fkzvhxmnuztjdan5v93tw558pp4y47 in process
+total tx: 2287
+7. kava13qeen0h97lz7p8na0kqvvw4ekg0qtj8sertepe in process
+total tx: 1858
+8. kava1qx3nua3t62kyk6gztv0ghwnadukut38cl68q2s in process
+total tx: 2346
+9. kava1sdttm0h4ez8lr9qk8h5r3jjxhaf3qq5gk0ft0x in process
+total tx: 1279
+10. kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g in process <- identified cheater
+total tx: 52
+11. kava1j7run79ex2dd5k78pk07865d4srj3gt9wly4sp in process <- identified cheater
+total tx: 31
+12. kava1pwhuq02sfnan3z5w4cayqd6smd2957mgd6hpj4 in process <- identified cheater
+total tx: 329
+13. kava1r62909r0dnj2xyqf0qrnrxc58s362jr9xgk6mt in process
+total tx: 1173
+14. kava1dr5at8u3f20p4kpu34knmdp8k8rd53er9jpaat in process
+total tx: 1790
+15. kava1z6udp0degrp3fzwcn4sx4fu3su64lskcf3jhcm in process <- identified cheater
+total tx: 548
+16. kava1yqvnnnr7zq5g0v4xetp9amnlrkfqwcj95t7sv0 in process
+total tx: 2216
+17. kava1xgjhyfxgzy0je4r8fwuskphhhrlm0jrjuhh47f in process
+total tx: 4347
+18. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u in process <- identified cheater
+total tx: 549
+19. kava1xcwvw6jxxgx3vppzcrdmemjll7vt9t5aw57065 in process <- multiaccont for 4y47 (top 6)
+total tx: 295
+20. kava1cvqzhnld6qtlsz7jy0f5n2k3aqfpts6uyzstld in process
+total tx: 9671
+21. kava1mzakmr5yjcftx4xgcvu9dptmsty7mkjdsys74g in process
+total tx: 1328
+22. kava1uj8cpjujypa0wrj7k8fp2jpkp4f5euml8wykhx in process <- multiaccont for 4y47 (top 6)
+total tx: 366
+23. kava1nq3kdc22z8u0rs80ed5lua6jsuaj7a50vj84sy in process
+total tx: 1233
+24. kava18sf2nxqt2633x3f7udjkcqkz3lzdgpsms4ddtd in process
+total tx: 698
+25. kava129mx925h3937xg66dzhqe8pfwemxvhanzf8wxp in process
+total tx: 798
+26. kava1fkzwehrhhuqegqgyccsqz2r42csw8qkh8lmcjn in process
+total tx: 2099
+27. kava1d08eh22xr2txmt3m404vp66fhvw79m8jt8x06l in process <- multiaccont for 4y47 (top 6)
+total tx: 306
+28. kava1tdyty4rs4vfynktdzh2s2sf6as0v0c8tcae2g4 in process
+total tx: 149
+29. kava1zfgmdes6rmq6ynrrml9fpxmtrfds5k3vvwkkh2 in process
+total tx: 177
+30. kava16p6p8yy8amradz97nkqagqpzdc90pekwv9uuht in process
+total tx: 229
+```
+
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
 
