@@ -16,9 +16,9 @@
    - **kava1uj8cpjujypa0wrj7k8fp2jpkp4f5euml8wykhx** (secondary)
    - **kava1d08eh22xr2txmt3m404vp66fhvw79m8jt8x06l** (secondary)
    - **kava19lnrq2n5crme7cptageamnyzkk97lcc8632h4k** (secondary)
-9. **kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k** - top auction liquidator; bought collateral at almost 0 cost most of the time
+8. **kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k** - top auction liquidator; bought collateral at almost 0 cost most of the time
    - **kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65** - competing top auction liquidator
-10. **kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n** - multiaccounts for 1 player
+9. **kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n** - multiaccounts for 1 player
    - **kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67**
    - **kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga**
    - **kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt**
@@ -698,7 +698,7 @@ height: 90375 - time: 2021-12-21T05:24:39Z - hard-borrow - kava1xcwvw6jxxgx3vppz
 ... no TXs after
 ```
 
-## 9. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - liquidators
+## 8. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - liquidators
 - kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65
 
 kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - top auction liquidator; bought collateral at almost 0 cost most of the time
@@ -749,7 +749,7 @@ height: 101035 - time: 2021-12-21T20:16:18Z - last_bidder: kava1gfdkdeyvamglk2tc
 height: 101042 - time: 2021-12-21T20:16:53Z - last_bidder: kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - id: 538 - what: 42462.0usdx
 ```
 
-## 10. **kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n** - probable multiaccounts
+## 9. **kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n** - probable multiaccounts
    - **kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67**
    - **kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga**
    - **kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt**
