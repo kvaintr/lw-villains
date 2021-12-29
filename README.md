@@ -1,4 +1,5 @@
 # Summary
+0. a couple of words on analysis and multiaccounting
 1. **kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u** - received funds from 2 accounts from the start of the competition
 2. **kava1pwhuq02sfnan3z5w4cayqd6smd2957mgd6hpj4** - received funds from 4 accounts from the start of the competition
 3. **kava1fskeptst975wj8s2epraq9u89cznlrj04dwc0g** - received funds from 21 accounts
@@ -15,8 +16,10 @@
    - **kava1uj8cpjujypa0wrj7k8fp2jpkp4f5euml8wykhx** (secondary)
    - **kava1d08eh22xr2txmt3m404vp66fhvw79m8jt8x06l** (secondary)
    - **kava19lnrq2n5crme7cptageamnyzkk97lcc8632h4k** (secondary)
-8. **kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k** - top auction liquidator; bought collateral at almost 0 cost most of the time
-9. **kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65** - competing top auction liquidator
+9. **kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k** - top auction liquidator; bought collateral at almost 0 cost most of the time
+   - **kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65** - competing top auction liquidator
+10. **kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n** - probable multiaccounts
+   - **kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67**
 
 
 # Report
@@ -91,6 +94,10 @@ total tx: 177
 30. kava16p6p8yy8amradz97nkqagqpzdc90pekwv9uuht in process
 total tx: 229
 ```
+
+### Multiaccounting
+
+It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but usually there is not enough information to identify their relation. It's hard to believe that such big prizes attracted only 1 multiaccount user. In the section 10 I provide an example of 2 accounts that might belong (or might not) to one person and explain why I find these accounts suspicous
 
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
@@ -686,14 +693,17 @@ height: 90375 - time: 2021-12-21T05:24:39Z - hard-borrow - kava1xcwvw6jxxgx3vppz
 ... no TXs after
 ```
 
-## 8-9. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k & kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65
+## 9. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - liquidators
+- kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65
 
-kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k- top auction liquidator; bought collateral at almost 0 cost most of the time
+kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - top auction liquidator; bought collateral at almost 0 cost most of the time
+
 kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65 - competing top auction liquidator
 
 While auctions are technicaly an important part of the platform and must be tested thoroughly too, such huge advantage makes the technicaly skilled player instant winner. It should be clearly stated in the rules how the auctions must be treated otherwise some people think auctions are forbidden while the others profit from them. It was mentioned in the blog that auctions won't be conducted, yet we have 2 liquidators who buy most of the collateral at very low cost like 50$ for 50000$
 
 I have no information how much each of the accounts gained total from the auctions, but their rewards rate is way ahead of the other players; I leave this to the Team
+
 uh3k has very low swap activity which was the key to success in the competition which tells he benefited solely from auctions
 
 By the time this report is created:
@@ -732,4 +742,117 @@ height: 100991 - time: 2021-12-21T20:12:37Z - last_bidder: kava1gfdkdeyvamglk2tc
 height: 101025 - time: 2021-12-21T20:15:28Z - last_bidder: kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - id: 538 - what: 30330.0usdx
 height: 101035 - time: 2021-12-21T20:16:18Z - last_bidder: kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - id: 538 - what: 40440.0usdx
 height: 101042 - time: 2021-12-21T20:16:53Z - last_bidder: kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k - id: 538 - what: 42462.0usdx
+```
+
+## 10. **kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n** - probable multiaccounts
+   - **kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67**
+
+I am not sure about these 2 accounts like I am sure about the section 7 multiaccount player. The most suspicious part here is similarity 4 - timing. This example might be false-positive, but it's fine to illustrate the idea and strategy.
+
+##### 1 similarity: close number of transactions
+player 33 5w67: 126 txs, 12 swap txs
+
+player 47 0r2n: 104 txs, 9 swap txs
+
+##### 2 similarity: same starting strategy
+Both sharing the same starting strategy of selling everything from the start
+```
+height: 5956 - time: 2021-12-16T07:43:14Z - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 80000.0hard - for: 60923.772927usdx - log: 
+height: 5977 - time: 2021-12-16T07:45:00Z - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 450.0atom - for: 6998.705691usdx - log: 
+height: 5984 - time: 2021-12-16T07:45:35Z - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 180.0luna - for: 8484.809991usdx - log: 
+height: 5991 - time: 2021-12-16T07:46:10Z - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 2200.0osmo - for: 11880.983103usdx - log: 
+height: 6051 - time: 2021-12-16T07:51:11Z - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 40000.0swp - for: 63080.949083usdx - log: 
+
+height: 5700 - time: 2021-12-16T07:21:49Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 80000.0hard - for: 64468.538806usdx - log: 
+height: 5709 - time: 2021-12-16T07:22:34Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 6500.0akt - for: 43077.640756usdx - log: 
+height: 5739 - time: 2021-12-16T07:25:05Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 15500.0swp - for: 24655.263883usdx - log: 
+height: 5747 - time: 2021-12-16T07:25:45Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 257.929541swp - for: 409.335251usdx - log: 
+height: 5773 - time: 2021-12-16T07:27:56Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 200.0usdx - for: 39.326146osmo - log: 
+height: 5801 - time: 2021-12-16T07:30:16Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 499.999999atom - for: 7224.19307usdx - log: 
+height: 5808 - time: 2021-12-16T07:30:51Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 190.0luna - for: 7618.828422usdx - log: 
+height: 5813 - time: 2021-12-16T07:31:16Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 2000.0osmo - for: 9239.949016usdx - log: 
+height: 5873 - time: 2021-12-16T07:36:17Z - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 24999.0usdx - for: 6247.773646kava - log: 
+```
+##### 3 similarity: same game strategy
+```
+height: 24748 - time: 2021-12-17T09:55:22Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 194314.0usdx 
+height: 24751 - time: 2021-12-17T09:55:37Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 194314.0usdx 
+height: 24754 - time: 2021-12-17T09:55:52Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 155451.0usdx 
+height: 24757 - time: 2021-12-17T09:56:07Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 155451.0usdx 
+height: 24762 - time: 2021-12-17T09:56:32Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 124361.0usdx 
+height: 24766 - time: 2021-12-17T09:56:52Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 124361.0usdx 
+
+height: 24401 - time: 2021-12-17T09:26:20Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 262868.831581usdx 
+height: 24404 - time: 2021-12-17T09:26:35Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 212561.0usdx 
+height: 24407 - time: 2021-12-17T09:26:51Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 212561.0usdx 
+height: 24412 - time: 2021-12-17T09:27:16Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 377.88739luna 
+height: 24415 - time: 2021-12-17T09:27:31Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 377.88739luna 
+height: 24419 - time: 2021-12-17T09:27:51Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 161546.0usdx 
+height: 24422 - time: 2021-12-17T09:28:06Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 161546.0usdx 
+height: 24426 - time: 2021-12-17T09:28:26Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 129237.0usdx 
+height: 24430 - time: 2021-12-17T09:28:46Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 129237.0usdx 
+height: 24436 - time: 2021-12-17T09:29:16Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 103389.0usdx 
+height: 24439 - time: 2021-12-17T09:29:31Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 103389.0usdx 
+height: 24443 - time: 2021-12-17T09:29:51Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 82711.0usdx 
+height: 24447 - time: 2021-12-17T09:30:11Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 82711.0usdx 
+```
+##### 4 similarity: no overlapping, close timing
+
+5w67 ~ 03:30 - 03:33
+
+0r2n ~ 03:42 - 03:43
+```
+height: 157877 - time: 2021-12-25T03:30:47Z - swap-withdraw - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 0.297995kava 1.42182usdx 
+height: 157884 - time: 2021-12-25T03:31:23Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 1.436183usdx 
+height: 157891 - time: 2021-12-25T03:31:58Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 460.0usdx 
+height: 157910 - time: 2021-12-25T03:33:33Z - cdp-withdraw - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 5.0hard 
+
+height: 158013 - time: 2021-12-25T03:42:10Z - swap-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 199.398941swp 332.314844usdx 
+height: 158024 - time: 2021-12-25T03:43:05Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 3499.0usdx 
+height: 158032 - time: 2021-12-25T03:43:45Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 3834.67156usdx 
+```
+5w67 ~ 03:39 - 03:40
+
+0r2n ~ 03:49 - 03:52
+
+The only txs for this day
+```
+height: 175200 - time: 2021-12-26T03:39:38Z - swap-withdraw - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 0.053294kava 0.257728usdx 
+height: 175204 - time: 2021-12-26T03:39:58Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 460.260333usdx 
+height: 175212 - time: 2021-12-26T03:40:39Z - cdp-withdraw - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 5.0hard 
+
+height: 175314 - time: 2021-12-26T03:49:10Z - swap-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 34.985747swp 61.497257usdx 
+height: 175336 - time: 2021-12-26T03:51:01Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 62.118442usdx 
+height: 175352 - time: 2021-12-26T03:52:21Z - cdp-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 5.0hard 
+```
+5w67 ~ 03:09 - 03:10
+
+0r2n ~ 03:17 - 03:18
+
+The only txs for this day
+```
+height: 192058 - time: 2021-12-27T03:09:36Z - swap-withdraw - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 0.052803kava 0.249839usdx 
+height: 192064 - time: 2021-12-27T03:10:07Z - hard-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 161.0usdx 
+height: 192069 - time: 2021-12-27T03:10:32Z - cdp-withdraw - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 5.0hard 
+
+height: 192153 - time: 2021-12-27T03:17:33Z - swap-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 35.270154swp 58.643358usdx 
+height: 192157 - time: 2021-12-27T03:17:53Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 59.235715usdx 
+height: 192161 - time: 2021-12-27T03:18:13Z - cdp-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 4.0hard 
+height: 192168 - time: 2021-12-27T03:18:48Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 2977.0usdx 
+```
+
+5w67 ~ 03:36 - 03:43
+
+0r2n ~ 03:44 - 03:46
+
+The only txs for this day
+```
+height: 209599 - time: 2021-12-28T03:36:44Z - cdp-borrow - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 15.0usdx 
+height: 209605 - time: 2021-12-28T03:37:14Z - swap-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 15.0hard 12.88484usdx
+height: 209682 - time: 2021-12-28T03:43:41Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 11.0usdx 
+
+height: 209697 - time: 2021-12-28T03:44:56Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 2000.0usdx 
+height: 209700 - time: 2021-12-28T03:45:11Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 10.0hard 
+height: 209704 - time: 2021-12-28T03:45:31Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 1000.0hard 
+height: 209715 - time: 2021-12-28T03:46:26Z - swap-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 777.0hard 667.434688usdx
 ```
