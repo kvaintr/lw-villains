@@ -25,7 +25,7 @@ analysis date: 26-28 Dec
 
 ### Txs correlation
 
-There is an interesting correlation between the account activity and cheating; not true for all accounts, but helped to identify the main cheaters. 
+There is an interesting correlation between the account activity and cheating; not true for all accounts, but helped to identify the main cheaters.
 
 This is the top 30 leaderboard with correlation noted
 ```
@@ -65,13 +65,13 @@ total tx: 2216
 total tx: 4347
 18. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u in process <- identified cheater
 total tx: 549
-19. kava1xcwvw6jxxgx3vppzcrdmemjll7vt9t5aw57065 in process <- multiaccont for 4y47 (top 6)
+19. kava1xcwvw6jxxgx3vppzcrdmemjll7vt9t5aw57065 in process <- multiaccount for 4y47 (top 6)
 total tx: 295
 20. kava1cvqzhnld6qtlsz7jy0f5n2k3aqfpts6uyzstld in process
 total tx: 9671
 21. kava1mzakmr5yjcftx4xgcvu9dptmsty7mkjdsys74g in process
 total tx: 1328
-22. kava1uj8cpjujypa0wrj7k8fp2jpkp4f5euml8wykhx in process <- multiaccont for 4y47 (top 6)
+22. kava1uj8cpjujypa0wrj7k8fp2jpkp4f5euml8wykhx in process <- multiaccount for 4y47 (top 6)
 total tx: 366
 23. kava1nq3kdc22z8u0rs80ed5lua6jsuaj7a50vj84sy in process
 total tx: 1233
@@ -81,7 +81,7 @@ total tx: 698
 total tx: 798
 26. kava1fkzwehrhhuqegqgyccsqz2r42csw8qkh8lmcjn in process
 total tx: 2099
-27. kava1d08eh22xr2txmt3m404vp66fhvw79m8jt8x06l in process <- multiaccont for 4y47 (top 6)
+27. kava1d08eh22xr2txmt3m404vp66fhvw79m8jt8x06l in process <- multiaccount for 4y47 (top 6)
 total tx: 306
 28. kava1tdyty4rs4vfynktdzh2s2sf6as0v0c8tcae2g4 in process
 total tx: 149
