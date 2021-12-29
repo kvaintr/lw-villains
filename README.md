@@ -29,11 +29,11 @@ There is an interesting correlation between the account activity and cheating; n
 
 This is the top 30 leaderboard with correlation noted
 ```
-1. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k in process
+1. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k in process <- auction bidder
 total tx: 4183
 2. kava1ngd60qqsuhr3ky9fqsn443pkzwwugn40t4afty in process
 total tx: 39
-3. kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65 in process
+3. kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65 in process <- auction bidder
 total tx: 4633
 4. kava1eufgf0w9d7hf5mgtek4zr2upkxag9stmzx6unl in process
 total tx: 2481
@@ -67,7 +67,7 @@ total tx: 4347
 total tx: 549
 19. kava1xcwvw6jxxgx3vppzcrdmemjll7vt9t5aw57065 in process <- multiaccount for 4y47 (top 6)
 total tx: 295
-20. kava1cvqzhnld6qtlsz7jy0f5n2k3aqfpts6uyzstld in process
+20. kava1cvqzhnld6qtlsz7jy0f5n2k3aqfpts6uyzstld in process <- trading bot
 total tx: 9671
 21. kava1mzakmr5yjcftx4xgcvu9dptmsty7mkjdsys74g in process
 total tx: 1328
