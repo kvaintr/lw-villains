@@ -31,7 +31,7 @@ This is the top 30 leaderboard with correlation noted
 ```
 1. kava1gfdkdeyvamglk2tc8quqtddjksmnr7eya7uh3k in process <- auction bidder
 total tx: 4183
-2. kava1ngd60qqsuhr3ky9fqsn443pkzwwugn40t4afty in process
+2. kava1ngd60qqsuhr3ky9fqsn443pkzwwugn40t4afty in process <- system account
 total tx: 39
 3. kava1svtehhtemmuk5hl9qxydhswdhqcfjxvrphws65 in process <- auction bidder
 total tx: 4633
