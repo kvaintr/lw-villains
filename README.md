@@ -750,6 +750,7 @@ height: 101042 - time: 2021-12-21T20:16:53Z - last_bidder: kava1gfdkdeyvamglk2tc
    - **kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67**
    - **kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga**
    - **kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt**
+   - **kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl**
 
 The most suspicious part here is similarity 4 (timing) and similarity 5 (pattern). This example might be false-positive, but it's fine to illustrate the idea and strategy.
 
@@ -757,6 +758,8 @@ The most suspicious part here is similarity 4 (timing) and similarity 5 (pattern
 player 33 5w67: 126 txs, 12 swap txs
 
 player 37 k4ga: 108 txs, 11 swap txs
+
+player 39 9qkl: 106 txs, 7 swap txs
 
 player 46 6dpt: 120 txs, 11 swap txs
 
@@ -787,6 +790,12 @@ height: 22904 - time: 2021-12-17T07:21:07Z - kava1dl6pgkgp0849863zu86jldhm3fe37u
 height: 22908 - time: 2021-12-17T07:21:27Z - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 16660.0kava - for: 75908.723914usdx - log: 
 height: 22959 - time: 2021-12-17T07:25:43Z - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 80000.0hard - for: 70548.838846usdx - log: 
 
+height: 21003 - time: 2021-12-17T04:42:05Z - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 80002.281196hard - for: 62078.442001usdx - log: 
+height: 21007 - time: 2021-12-17T04:42:25Z - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 6504.745722akt - for: 20134.568868usdx - log: 
+height: 21012 - time: 2021-12-17T04:42:50Z - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 16600.0kava - for: 74076.316271usdx - log: 
+height: 21039 - time: 2021-12-17T04:45:06Z - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 2400.0osmo - for: 10264.131012usdx - log: 
+height: 21052 - time: 2021-12-17T04:46:11Z - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 40000.0swp - for: 63358.136624usdx - log: 
+
 height: 23449 - time: 2021-12-17T08:06:42Z - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 8106.11419akt - for: 20097.228927usdx - log: 
 height: 23453 - time: 2021-12-17T08:07:02Z - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 2400.0osmo - for: 9110.439167usdx - log: 
 height: 23458 - time: 2021-12-17T08:07:27Z - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 43361.556477swp - for: 59392.206427usdx - log: 
@@ -795,6 +804,18 @@ height: 23468 - time: 2021-12-17T08:08:18Z - kava15vkstzpueykxaprm84sra7ejtp6g6e
 ```
 ##### 3 similarity: same game strategy
 ```
+height: 21084 - time: 2021-12-17T04:48:52Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 150000.0usdx 
+height: 21089 - time: 2021-12-17T04:49:17Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 150000.0usdx 
+height: 21094 - time: 2021-12-17T04:49:42Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 150000.0usdx 
+height: 21097 - time: 2021-12-17T04:49:57Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 150000.0usdx 
+height: 21108 - time: 2021-12-17T04:50:52Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 50000.0usdx 
+height: 21112 - time: 2021-12-17T04:51:12Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 50000.0usdx 
+height: 21119 - time: 2021-12-17T04:51:47Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 100000.0usdx 
+height: 21122 - time: 2021-12-17T04:52:03Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 100000.0usdx 
+height: 21127 - time: 2021-12-17T04:52:28Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 100000.0usdx 
+height: 21130 - time: 2021-12-17T04:52:43Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 100000.0usdx 
+height: 21141 - time: 2021-12-17T04:53:38Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 80000.0usdx 
+
 height: 22988 - time: 2021-12-17T07:28:08Z - hard-borrow - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 193552.0usdx 
 height: 22991 - time: 2021-12-17T07:28:23Z - hard-deposit - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 193552.0usdx 
 height: 22995 - time: 2021-12-17T07:28:43Z - hard-borrow - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 154842.0usdx 
@@ -830,6 +851,8 @@ height: 24436 - time: 2021-12-17T09:29:16Z - hard-borrow - kava1lueh9u37pcjktccg
 height: 24439 - time: 2021-12-17T09:29:31Z - hard-deposit - kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67 - what: 103389.0usdx 
 ```
 ##### 4 similarity: no overlapping, close timing
+9qkl ~ 02:06 - 02:09
+
 k4ga ~ 02:35 - 02:37
 
 6dpt ~ 02:53 - 02:55
@@ -840,6 +863,13 @@ k4ga ~ 02:35 - 02:37
 
 The only txs for this day
 ```
+height: 156867 - time: 2021-12-25T02:06:19Z - swap-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 223.486271hard 201.456225usdx 
+height: 156875 - time: 2021-12-25T02:06:59Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 1511.0usdx 
+height: 156880 - time: 2021-12-25T02:07:24Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 1714.0usdx 
+height: 156886 - time: 2021-12-25T02:07:54Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 39.0atom 
+height: 156889 - time: 2021-12-25T02:08:09Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 46.0atom 
+height: 156909 - time: 2021-12-25T02:09:50Z - cdp-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 9.0atom 
+
 height: 157220 - time: 2021-12-25T02:35:50Z - swap-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 23.619014swp 39.365973usdx 
 height: 157235 - time: 2021-12-25T02:37:05Z - cdp-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 40.0hard 
 
@@ -858,6 +888,8 @@ height: 158013 - time: 2021-12-25T03:42:10Z - swap-withdraw - kava1ueu592zmh5aqm
 height: 158024 - time: 2021-12-25T03:43:05Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 3499.0usdx 
 height: 158032 - time: 2021-12-25T03:43:45Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 3834.67156usdx 
 ```
+9qkl ~ 02:39 - 02:39
+
 k4ga ~ 02:59 - 02:59
 
 6dpt ~ 03:15 - 03:16
@@ -868,6 +900,10 @@ k4ga ~ 02:59 - 02:59
 
 The only txs for this day
 ```
+height: 174475 - time: 2021-12-26T02:39:00Z - swap-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 40.201662hard 36.311837usdx 
+height: 174479 - time: 2021-12-26T02:39:20Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 700.0usdx 
+height: 174483 - time: 2021-12-26T02:39:40Z - cdp-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 10.0atom 
+
 height: 174716 - time: 2021-12-26T02:59:09Z - swap-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 1.95734swp 3.855099usdx 
 height: 174723 - time: 2021-12-26T02:59:45Z - cdp-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 1.0hard 
 
@@ -882,6 +918,8 @@ height: 175314 - time: 2021-12-26T03:49:10Z - swap-withdraw - kava1ueu592zmh5aqm
 height: 175336 - time: 2021-12-26T03:51:01Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 62.118442usdx 
 height: 175352 - time: 2021-12-26T03:52:21Z - cdp-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 5.0hard 
 ```
+9qkl ~ 02:16 - 02:17
+
 k4ga ~ 02:36 - 02:37
 
 6dpt ~ 02:52 - 02:53
@@ -892,6 +930,10 @@ k4ga ~ 02:36 - 02:37
 
 The only txs for this day
 ```
+height: 191425 - time: 2021-12-27T02:16:40Z - swap-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 40.385888hard 34.731003usdx 
+height: 191430 - time: 2021-12-27T02:17:05Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 772.251583usdx 
+height: 191434 - time: 2021-12-27T02:17:25Z - cdp-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 5.0atom 
+
 height: 191664 - time: 2021-12-27T02:36:39Z - swap-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 4.271341swp 6.933969usdx 
 height: 191671 - time: 2021-12-27T02:37:14Z - cdp-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 4.0hard 
 
@@ -907,6 +949,8 @@ height: 192157 - time: 2021-12-27T03:17:53Z - hard-deposit - kava1ueu592zmh5aqmn
 height: 192161 - time: 2021-12-27T03:18:13Z - cdp-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 4.0hard 
 height: 192168 - time: 2021-12-27T03:18:48Z - hard-borrow - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 2977.0usdx 
 ```
+9qkl ~ 03:05 - 03:08
+
 k4ga ~ 03:20 - 03:20
 
 6dpt ~ 03:20 - 03:24
@@ -917,8 +961,15 @@ k4ga ~ 03:20 - 03:20
 
 The only txs for this day
 ```
-# this is the only case of overlapping I've came across with these accounts: k4ga completes the transaction later than 6dpt starts
-# I admit that this example breaks the logic, yet this is the only tx for k4ga
+height: 209225 - time: 2021-12-28T03:05:27Z - hard-borrow - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 250.0usdx 
+height: 209237 - time: 2021-12-28T03:06:27Z - cdp-repay - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - atom-a - what: 50.0usdx 
+height: 209241 - time: 2021-12-28T03:06:48Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 50.0usdx 
+height: 209247 - time: 2021-12-28T03:07:18Z - swap-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 396.130238hard 340.199332usdx 
+height: 209253 - time: 2021-12-28T03:07:48Z - swap-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 100.0hard 85.880678usdx
+height: 209261 - time: 2021-12-28T03:08:28Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 607.276829hard 
+
+# this is the only case of overlapping I've came across with these accounts: k4ga completes the transaction later than 6dpt
+# I admit that this example breaks the logic, yet this is the only tx for k4ga on that day and there is a possibility it was initiated earlier and took longer to process
 height: 209404 - time: 2021-12-28T03:20:25Z - swap-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 184.186772swp 313.063488usdx 
 
 height: 209399 - time: 2021-12-28T03:20:00Z - swap-withdraw - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 6.915753kava 33.401472usdx 
@@ -937,10 +988,22 @@ height: 209704 - time: 2021-12-28T03:45:31Z - hard-borrow - kava1ueu592zmh5aqmnt
 height: 209715 - time: 2021-12-28T03:46:26Z - swap-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 777.0hard 667.434688usdx
 ```
 ##### 5 similarity: pattern
-If we look closely at the last players activity from the last days (check all in similarity 4), they have the same wierd pattern:
+
+###### point 1: all accounts follow each other in the same order every day starting from Dec 24 (or even earlier), see the order in the examples above
+
+###### point 2: 
+If we look closely at the last players activity from the last days (check all in similarity 4), they have the same weird pattern
+
+I'd say there is close to 0 possibility that 2 players among 700 would be following this strange pattern of withdrawing from swap and cdp at almost the same time without doing anything specific, but these strange transactions
+
+What makes me believe they are all interconnected is this pattern of 0 sense transactions which look more like creating some activity. While I understand that akt\atom might be used for IBC transactions, there's no logic to withdraw 5 hard or playing with small amounts. It's better to compare the logs 1-to-1 to get this sense that something is wrong about these accounts
 ```
 height: 174716 - time: 2021-12-26T02:59:09Z - swap-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 1.95734swp 3.855099usdx 
 height: 174723 - time: 2021-12-26T02:59:45Z - cdp-withdraw - kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga - what: 1.0hard 
+
+height: 191425 - time: 2021-12-27T02:16:40Z - swap-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 40.385888hard 34.731003usdx 
+height: 191430 - time: 2021-12-27T02:17:05Z - hard-deposit - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 772.251583usdx 
+height: 191434 - time: 2021-12-27T02:17:25Z - cdp-withdraw - kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl - what: 5.0atom 
 
 height: 174916 - time: 2021-12-26T03:15:53Z - swap-withdraw - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 0.159873kava 0.77314usdx 
 height: 174924 - time: 2021-12-26T03:16:33Z - cdp-withdraw - kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt - what: 5.0akt 
@@ -953,4 +1016,3 @@ height: 175314 - time: 2021-12-26T03:49:10Z - swap-withdraw - kava1ueu592zmh5aqm
 height: 175336 - time: 2021-12-26T03:51:01Z - hard-deposit - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 62.118442usdx 
 height: 175352 - time: 2021-12-26T03:52:21Z - cdp-withdraw - kava1ueu592zmh5aqmnt9aqddglvwuvwg0krjml0r2n - what: 5.0hard 
 ```
-I'd say there is close to 0 possibility that 2 players among 700 would be following this strange pattern of withdrawing from swap and cdp at almost the same time without doing anything specific, but these strange transactions
