@@ -22,6 +22,7 @@
    - **kava1lueh9u37pcjktccg7kd3yj5jl2vwqax4565w67**
    - **kava1dl6pgkgp0849863zu86jldhm3fe37ut299k4ga**
    - **kava15vkstzpueykxaprm84sra7ejtp6g6ep58z6dpt**
+   - **kava1a4aap0glvcww5fw4ypfvsd80ta0cksl0vu9qkl**
 
 
 # Report
@@ -99,7 +100,9 @@ total tx: 229
 
 ### Multiaccounting
 
-It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but usually there is not enough information to identify their relation. It's hard to believe that such big prizes attracted only 1 multiaccount user. In the section 10 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous
+It's difficult to find multiaccounting with logs only. Some accounts raise questions with similar activites, but it's not easy to identify their relation from first view. It's hard to believe that such big prizes attracted only a couple multiaccount users: getting $1000 for 2 weeks of low time labor every day is very attrective for cheaters. 
+
+In the section 10 I provide an example of several accounts that might belong (or might not) to one person and explain why I find these accounts suspicous.
 
 ## 1. kava1uh8h4m0cqq6tnyj255mkj0s8s9vfe2kq6a2s8u
 multiple assets received from 2 accounts from the start
