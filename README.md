@@ -272,6 +272,9 @@ main account sells ATOM (gained 70k+ usdx)
 height: 174567 - time: 2021-12-26T02:46:42Z - kava1z6udp0degrp3fzwcn4sx4fu3su64lskcf3jhcm - what: 11350.156692atom - for: 364380.434562usdx - 
 ```
 second account sells ATOM (lost 70k usdx)
+```
+height: 174572 - time: 2021-12-26T02:47:07Z - kava1h5g50w6xeej7yrynjz2z54px2cpxdqysupdw4w - what: 16735.728052atom - for: 445123.871108usdx - 
+```
 
 ### Example 2:
 
@@ -279,10 +282,6 @@ timing:  02:47 - 02:58
 
 all actions are done in the same low time frame
 
-secondary account finishes preparations to get more USDX
-```
-height: 174572 - time: 2021-12-26T02:47:07Z - kava1h5g50w6xeej7yrynjz2z54px2cpxdqysupdw4w - what: 16735.728052atom - for: 445123.871108usdx - 
-```
 main account buys ATOM
 ```
 height: 174582 - time: 2021-12-26T02:47:57Z - kava1z6udp0degrp3fzwcn4sx4fu3su64lskcf3jhcm - what: 364380.434562usdx - for: 13923.730501atom - 
